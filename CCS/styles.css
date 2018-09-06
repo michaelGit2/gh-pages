@@ -1,4 +1,11 @@
 h1 {
   font-style: italic;
-  background-color: green;
+  background-color: purple;
+  font-size:80px;
+}
+li{
+  display: inline;
+  list-style-type: none;
+  background-color: grey;
+
 }
